@@ -1,0 +1,49 @@
+.btnIncrement{
+    display: inline-block;
+	font-weight: 400;
+	color: #212529;
+	text-align: center;
+	border: 1px solid transparent;
+	padding: .375rem .75rem;
+	line-height: 1.5;
+	border-radius: .25rem;
+	font-size: 1rem;
+	color: #fff;
+	background-color: #5cb85c;
+}
+.btnIncrement:hover{
+    background-color: #5cb85c6d;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.btnDecrement:hover{
+    background-color: #007bff6b;
+    font-size: 1.5rem;
+    font-weight: 600;
+
+}
+.btnDecrement{
+    display: inline-block;
+	font-weight: 400;
+	color: #212529; 
+	text-align: center;
+	border: 1px solid transparent;
+	padding: .375rem .75rem;
+	font-size: 1rem;
+	line-height: 1.5;
+	border-radius: .25rem;
+	color: #fff;
+	background-color: #007bff;
+}
+.counter{
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.buttons{
+    text-align: center;
+}
+.body{
+    text-align: center;
+    margin-top: 15%;
+}
